@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src=" " alt="JartexSMP Logo" width="400">
+  <img src="https://raw.githubusercontent.com/JartexSMP/.github/refs/heads/main/profile/logo.png" alt="JartexSMP Logo" width="400">
   <br>
-  <p align="left">Vítejte v organizaci serveru JartexSMP</p>
+  <p align="center">Vítejte v organizaci serveru JartexSMP!</p>
 </h1>
 
 Jsme československý Minecraft server JartexSMP – komunita hráčů zaměřená na kvalitu, zábavu a spokojenost hráčů. Nabízíme jedinečný herní zážitek na originálních módech jako Survival, Oneblock a Anarchy, kde si každý najde to své.
